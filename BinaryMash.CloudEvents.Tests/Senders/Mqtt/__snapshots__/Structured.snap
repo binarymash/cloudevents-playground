@@ -1,0 +1,15 @@
+﻿{
+  "Topic": "my_mqtt_topic",
+  "Payload": "eyJzcGVjdmVyc2lvbiI6IjEuMCIsImlkIjoiZWRjNTJhMzMtNzIxMC00YzJiLWEzMmItYWFiOWI5Y2IzNDRkIiwic291cmNlIjoiaHR0cHM6Ly9iaW5hcnltYXNoL3NvbWUtc3lzdGVtL3Byb2plY3RzLzk5MDJkNmEyLTExNGYtNDJmMi04YTk1LTlkZWNiZDg5ZDBjYiIsInR5cGUiOiJiaW5hcnltYXNoLnNvbWUtc3lzdGVtLnByb2plY3QtY3JlYXRlZCIsImRhdGFjb250ZW50dHlwZSI6ImFwcGxpY2F0aW9uL2pzb24iLCJkYXRhIjp7IklkIjoiOTkwMmQ2YTItMTE0Zi00MmYyLThhOTUtOWRlY2JkODlkMGNiIiwiTmFtZSI6IlNvbWUgcHJvamVjdCJ9fQ==",
+  "QualityOfServiceLevel": "ExactlyOnce",
+  "Retain": false,
+  "Dup": false,
+  "UserProperties": null,
+  "ContentType": null,
+  "ResponseTopic": "my_response_topic",
+  "PayloadFormatIndicator": null,
+  "MessageExpiryInterval": null,
+  "TopicAlias": null,
+  "CorrelationData": null,
+  "SubscriptionIdentifiers": null
+}

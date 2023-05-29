@@ -1,0 +1,38 @@
+﻿[
+  {
+    "Key": "Content-Type",
+    "Value": [
+      "application/json"
+    ]
+  },
+  {
+    "Key": "ce-specversion",
+    "Value": [
+      "1.0"
+    ]
+  },
+  {
+    "Key": "ce-id",
+    "Value": [
+      "edc52a33-7210-4c2b-a32b-aab9b9cb344d"
+    ]
+  },
+  {
+    "Key": "ce-source",
+    "Value": [
+      "https://binarymash/some-system/projects/9902d6a2-114f-42f2-8a95-9decbd89d0cb"
+    ]
+  },
+  {
+    "Key": "ce-type",
+    "Value": [
+      "binarymash.some-system.project-created"
+    ]
+  },
+  {
+    "Key": "ce-partitionkey",
+    "Value": [
+      "9902d6a2-114f-42f2-8a95-9decbd89d0cb"
+    ]
+  }
+]

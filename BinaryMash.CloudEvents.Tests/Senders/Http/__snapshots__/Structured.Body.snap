@@ -1,0 +1,11 @@
+﻿{
+    "specversion": "1.0",
+    "id": "edc52a33-7210-4c2b-a32b-aab9b9cb344d",
+    "source": "https://binarymash/some-system/projects/9902d6a2-114f-42f2-8a95-9decbd89d0cb",
+    "type": "binarymash.some-system.project-created",
+    "datacontenttype": "application/json",
+    "data": {
+        "Id": "9902d6a2-114f-42f2-8a95-9decbd89d0cb",
+        "Name": "Some project"
+    }
+}
